@@ -3,6 +3,13 @@
     "Overview": "/",
     "module name here": "core.html",
     "Introduction": "introduction.html",
+    "Title": "zone_accessibility.html",
+    "Data collection and preprocessing": "data_collection_and_preprocessing.html",
+    "Data exploration": "data_exploration.html",
+    "Spatial analysis": "spatial_analysis.html",
+    "Discrete choice modelling": "discrete_choice_modelling.html",
+    "Machine learning models": "machine_learning_models.html",
+    "Deep learning": "deep_learning.html",
     "Shopping destination choice using discrete choice and machine learning": "shopping_location_choice.html"
   }
 }

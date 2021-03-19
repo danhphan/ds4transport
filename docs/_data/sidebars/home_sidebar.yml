@@ -16,6 +16,27 @@ entries:
       title: Introduction
       url: introduction.html
     - output: web,pdf
+      title: Title
+      url: zone_accessibility.html
+    - output: web,pdf
+      title: Data collection and preprocessing
+      url: data_collection_and_preprocessing.html
+    - output: web,pdf
+      title: Data exploration
+      url: data_exploration.html
+    - output: web,pdf
+      title: Spatial analysis
+      url: spatial_analysis.html
+    - output: web,pdf
+      title: Discrete choice modelling
+      url: discrete_choice_modelling.html
+    - output: web,pdf
+      title: Machine learning models
+      url: machine_learning_models.html
+    - output: web,pdf
+      title: Deep learning
+      url: deep_learning.html
+    - output: web,pdf
       title: Shopping destination choice using discrete choice and machine learning
       url: shopping_location_choice.html
     output: web

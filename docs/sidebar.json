@@ -1,6 +1,8 @@
 {
   "ds4transport": {
     "Overview": "/",
-    "module name here": "/core"
+    "module name here": "core.html",
+    "Introduction": "introduction.html",
+    "Shopping destination choice using discrete choice and machine learning": "shopping_location_choice.html"
   }
 }

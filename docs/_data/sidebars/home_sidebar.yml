@@ -11,7 +11,13 @@ entries:
       url: /
     - output: web,pdf
       title: module name here
-      url: /core
+      url: core.html
+    - output: web,pdf
+      title: Introduction
+      url: introduction.html
+    - output: web,pdf
+      title: Shopping destination choice using discrete choice and machine learning
+      url: shopping_location_choice.html
     output: web
     title: ds4transport
   output: web

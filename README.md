@@ -12,7 +12,7 @@ This file will become your README and also the index of your documentation.
 
 Code examples:
 
-```python
+```
 1+1
 ```
 
@@ -23,7 +23,7 @@ Code examples:
 
 
 
-```python
+```
 wellcome('Jim')
 ```
 
